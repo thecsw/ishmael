@@ -5,10 +5,10 @@ title = "Ishmael's Moby 🐋"
 # and all the relative paths. You can leave this off and
 # darkness will default to your current path, so you can
 # test the website locally and everything
-url = ""
+#url = ""
 
 # UNCOMMENT WHEN DEPLOYING
-# url = "https://example.com"
+url = "http://sandyuraz.com/ishmael/"
 
 # This section will be about specific project settings
 [project]
