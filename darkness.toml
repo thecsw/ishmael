@@ -8,7 +8,7 @@ title = "Ishmael's Moby 🐋"
 #url = ""
 
 # UNCOMMENT WHEN DEPLOYING
-url = "http://sandyuraz.com/ishmael/"
+url = "https://sandyuraz.com/ishmael/"
 
 # This section will be about specific project settings
 [project]
