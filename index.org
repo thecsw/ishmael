@@ -166,7 +166,7 @@ TIP: This is kinda useful for technical posts when you mention exceptions or so
 
 IMPORTANT: Life is to be lived.
 
-** Footnotes
+** Adding footnotes
 
 Another cool thing darkness can do for you is keeping track of your
 footnotes. We follow orgmode's conventions as well. Anywhere in the text, if
