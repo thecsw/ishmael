@@ -135,6 +135,12 @@ There is nothing more awful, insulting, and depressing than banality.
 -- Anton Chekhov
 #+end_quote
 
+or you can have details with =#+­begin_details <NAME>= and =#+­end_details=,
+
+#+begin_details this is the title
+ha! you found me
+#+end_details
+
 ** HTML injection
 
 Whatever darkness provides can still be limiting if you want to insert some of
